@@ -1,0 +1,8 @@
+---
+Name: cmstreestatus
+After: 'cms/*'
+---
+CMSMain:
+    extra_requirements_css:
+        cmstreestatus/css/cmstreestatus.css:
+            media: screen

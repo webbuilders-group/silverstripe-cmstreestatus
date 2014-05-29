@@ -1,0 +1,23 @@
+{
+    "name": "webbuilders-group/silverstripe-cmstreestatus",
+    "description": "Adds styles to the cms page tree to clearly identify pages in draft mode, changed on draft, or removed from draft/live",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "pages", "tree"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Ed Chipman",
+            "homepage": "http://webbuildersgroup.com",
+            "role": "Developer"
+        }
+    ],
+    "require":
+    {
+        "silverstripe/cms": "3.*",
+        "silverstripe/framework": "3.*",
+        "composer/installers": "*"
+    },
+    "extra": {
+        "installer-name": "cmstreestatus"
+    }
+}

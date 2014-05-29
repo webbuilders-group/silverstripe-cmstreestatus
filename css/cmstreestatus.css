@@ -1,0 +1,16 @@
+.cms-tree.jstree .status-modified > a, .cms-tree.jstree .modified > a {
+    font-style: italic !important;
+}
+
+.cms-tree.jstree .status-addedtodraft > a, .cms-tree.jstree .addedtodraft > a {
+    color: #E88B0C !important;
+}
+
+.cms-tree.jstree .status-deletedonlive > a, .cms-tree.jstree .status-removedfromdraft > a, .cms-tree.jstree .deletedonlive > a, .cms-tree.jstree .removedfromdraft > a {
+    color: #CB1614 !important;
+}
+
+.cms-tree.jstree .modified.addedtodraft > a {
+    font-style: normal !important;
+    color: #1556B2 !important;
+}
