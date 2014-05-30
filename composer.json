@@ -19,5 +19,8 @@
     },
     "extra": {
         "installer-name": "cmstreestatus"
+    },
+    "support": {
+        "issues": "https://github.com/webbuilders-group/silverstripe-cmstreestatus/issues"
     }
 }
